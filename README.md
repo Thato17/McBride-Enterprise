@@ -9,9 +9,11 @@ Performance Page:
 ![McBride's Enterprise Performance Page](https://user-images.githubusercontent.com/114568832/192753071-9a38458f-7e8a-4183-a6e7-b5f14ba5216f.png)
 
 
-I further tried my hand at creating a DBMS using Microsoft Access and attached a preliminary report, and a methodology and reflection report. 
+I further tried my hand at creating a DBMS using Microsoft Access. 
 
 DMBS:
 ![DBMS design](https://user-images.githubusercontent.com/114568832/192754122-f81fd150-ab77-43df-8ec4-cbb4f16d4f19.png)
+
+The prelimnary report gives an overview of the findings and insights that have been made based of the dashboard whilst the methodology and reflection report gives a personal report of what I experienced during the creation of this project.
 
 This is by no means professional work but just a documentation of my work and applying the skills I've learnt so far.
