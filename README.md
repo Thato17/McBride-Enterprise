@@ -3,10 +3,12 @@
 This is my first project I have ever done. It is centered around a fictional company; McBride's Enterprise. Data was pulled from PowerBi's sample dataset. A preview of the dashboard can be observed below.
 
 Overview Page:
-![McBride's Enterprise Overview Page](https://user-images.githubusercontent.com/114568832/192752729-781af493-39b3-48d2-913c-7d8a1cf2fd31.png)
+![McBride's Enterprise Overview Page](https://user-images.githubusercontent.com/114568832/197755465-90aca8ef-2d96-4284-b43b-1b541dba5d9f.png)
+
 
 Performance Page:
-![McBride's Enterprise Performance Page](https://user-images.githubusercontent.com/114568832/192753071-9a38458f-7e8a-4183-a6e7-b5f14ba5216f.png)
+![McBride's Enterprise Performance Page](https://user-images.githubusercontent.com/114568832/197755024-5bbfa015-ac5e-488b-8d0e-dab9e59187cd.png)
+
 
 
 I further tried my hand at creating a DBMS using Microsoft Access. 
