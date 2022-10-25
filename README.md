@@ -4,7 +4,8 @@ This is my first project I have ever done. It is centered around a fictional com
 
 INSIGHTS:
 * From the 3rd Quarter to 4th Qaurter, COGS (Cost of Goods Sold) doubled across all countries. This in turn caused a decrease in profits for USA, Mexico and France. The product which spiked in cost is normal paper, it cost more than double to sell in that time period.
-* Germany and Canada are the only countries that increased their profits from 3rd quarter to 4th quarter. Germany increased sales to $3.11 million from $1.89 million while Canada increased sales to $3.48 million from $2.52 million. These increase in sales helped offset theincrease in COGS.
+* Germany and Canada are the only countries that increased their profits from 3rd quarter to 4th quarter. Germany increased sales to $3.11 million from $1.89 million while Canada increased sales to $3.48 million from $2.52 million. These increase in sales helped offset the increase in COGS.
+* Whilst the Government sector is the companies biggest customer, it also receives a staggering 42.35% discount on products followed by small business with 38.17%. 
 
 
 Overview Page:
