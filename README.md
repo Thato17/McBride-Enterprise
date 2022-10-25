@@ -9,7 +9,7 @@ INSIGHTS:
 
 
 Overview Page:
-![McBride's Enterprise Overview Page](https://user-images.githubusercontent.com/114568832/197755465-90aca8ef-2d96-4284-b43b-1b541dba5d9f.png)
+![McBride's Enterprise Overview Page](https://user-images.githubusercontent.com/114568832/197765478-a0549e12-0d79-470e-abe9-62f1e19dd452.png)
 
 
 Performance Page:
