@@ -1,6 +1,7 @@
 # McBride-Enterprise
 
-This is my first project I have ever done. It is centered around a fictional company; McBride's Enterprise. Data was pulled from PowerBi's sample dataset. A preview of the dashboard can be observed below.
+McBride Enterprise sells different paper across the regions of Canada, USA, Mexico, France and Germany. Across these regions they sell products to the goverment sector and private businesses. McBride Enterprise needs to find out their performance of their business across the different regions and customer sectors.
+
 
 INSIGHTS:
 * From the 3rd Quarter to 4th Qaurter, COGS (Cost of Goods Sold) doubled across all countries. This in turn caused a decrease in profits for USA, Mexico and France. The product which spiked in cost is normal paper, it cost more than double to sell in that time period.
