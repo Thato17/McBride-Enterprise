@@ -1,13 +1,12 @@
 # McBride-Enterprise
 
-McBride Enterprise sells different paper across the regions of Canada, USA, Mexico, France and Germany. Across these regions they sell products to the goverment sector and private businesses. McBride Enterprise needs to find out their performance of their business across the different regions and customer sectors.
+*McBride Enterprise sells different paper across the regions of Canada, USA, Mexico, France and Germany. Across these regions they sell products to the goverment sector and private businesses. McBride Enterprise needs to find out their performance of their business across the different regions and customer sectors.
 
+*The data of the companies performance was readily available and little cleaning was needed; the integrity of the data was good. The company was needed to get a better and btter understanding of how the companies KPI's for each product in each region and sector across each quarter.
 
-INSIGHTS:
-* From the 3rd Quarter to 4th Qaurter, COGS (Cost of Goods Sold) doubled across all countries. This in turn caused a decrease in profits for USA, Mexico and France. The product which spiked in cost is normal paper, it cost more than double to sell in that time period.
-* Germany and Canada are the only countries that increased their profits from 3rd quarter to 4th quarter. Germany increased sales to $3.11 million from $1.89 million while Canada increased sales to $3.48 million from $2.52 million. These increase in sales helped offset the increase in COGS.
-* Whilst the Government sector is the companies biggest customer, it also receives a staggering 42.35% discount on products followed by small business with 38.17%. 
+*The data was directly imported into PowerBi to create these interactive dashboards to give the key-decision makers more insights into the business performance.
 
+*As a result key-decision makers have the neecessary KPI information to adapt accordingly to challanges the business is facing or opportunities that stand-out from the interactive dashboard.
 
 Overview Page:
 ![McBride's Enterprise Overview Page](https://user-images.githubusercontent.com/114568832/197768027-20c93475-7df0-44d0-bf39-6d645a2c23b7.png)
